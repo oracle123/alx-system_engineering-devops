@@ -1,1 +1,1 @@
-script that prints absolute name in the current working directory
+ script that prints absolute name on the current working directory
